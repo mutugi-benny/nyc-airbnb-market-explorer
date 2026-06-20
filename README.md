@@ -75,12 +75,19 @@ jupyter notebook src/03_data_analysis.ipynb
 ## 📈 Key Skills Demonstrated
 
 |        Skill           |              Description                |
+
 |--------- --------------|-----------------------------------------|
+
 |     Data Importing     |      CSV, multiple file formats         |
+
 |   Data Exploration     |    `head()`, `describe()`, `info()`     |
+
 |    Data Cleaning       |    Strings, dates, missing values       |
+
 | Feature Engineering    | Creating new columns from existing data |
+
 |     Data Merging       |      Joining multiple DataFrames        |
+
 |     Data Analysis      |     Group statistics, aggregations      |
 
 ## 📄 Deliverables
