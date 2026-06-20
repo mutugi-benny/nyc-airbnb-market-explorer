@@ -25,16 +25,27 @@ Real estate companies struggle to ingest data from multiple file formats and ext
 
 ## 📁 Project Structure
 nyc-airbnb-market-explorer/
+
 ├── data/
+
 │ ├── raw/ # Original dataset
+
 │ └── processed/ # Cleaned data
+
 ├── src/
+
 │ ├── 01_data_import.ipynb
+
 │ ├── 02_data_cleaning.ipynb
+
 │ └── 03_data_analysis.ipynb
+
 ├── output/
+
 │ ├── market_summary_report.md
+
 │ └── visualizations/
+
 └── README.md
 
 ## 🚀 Setup Instructions
