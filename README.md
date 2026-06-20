@@ -76,7 +76,7 @@ jupyter notebook src/03_data_analysis.ipynb
 
 |        Skill           |              Description                |
 
-|--------- --------------|-----------------------------------------|
+--------------------------------------------------
 
 |     Data Importing     |      CSV, multiple file formats         |
 
