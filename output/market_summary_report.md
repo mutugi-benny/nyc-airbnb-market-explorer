@@ -46,6 +46,7 @@ Top 10 Most Expensive Neighborhoods:
 |Whitestone, New York, United States          |364.000000|
 |Far Rockaway , New York, United States      | 352.000000|
 |Jamaica queens, New York, United States      |350.000000|
+
 ![Top_neighbourhoods.csv data](../output/top_neighborhoods.csv)
 
      --------------------------------------------
