@@ -7,10 +7,8 @@ This project analyzes the NYC Airbnb market to provide insights for real estate 
 
 |
  Metric
- 
 |
  Value
- 
 |
 
 |
