@@ -95,6 +95,8 @@ jupyter notebook src/03_data_analysis.ipynb
 
 - Dataset: [Inside Airbnb NYC](http://insideairbnb.com/new-york-city/) 
 
-## 📝 License
+## License
 
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
