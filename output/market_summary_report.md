@@ -94,20 +94,35 @@ Top 10 Most Expensive Neighborhoods:
 
 ## Project Files
 nyc-airbnb-market-explorer/
+
 ├── data/
+
 │ ├── raw/listings.csv
+
 │ └── processed/cleaned_airbnb_data.csv
+
 ├── src/
+
 │ ├── 01_data_import.ipynb
+
 │ ├── 02_data_cleaning.ipynb
+
 │ └── 03_data_analysis.ipynb
+
 ├── output/
+
 │ ├── market_summary_report.md (this file)
+
 │ ├── market_summary_report.csv
+
 │ ├── top_neighborhoods.csv
+
 │ ├── price_by_borough.png
+
 │ ├── room_type_distribution.png
+
 │ └── price_vs_reviews.png
+
 └── README.md
 
     -----------------------------
