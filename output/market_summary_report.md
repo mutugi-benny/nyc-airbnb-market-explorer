@@ -3,19 +3,44 @@
 ## Executive Summary
 
 This project analyzes the NYC Airbnb market to provide insights for real estate investors and hospitality business
+## Key Metrics
 
-## Key Findings
+|
+ Metric
+|
+ Value
+|
+|
+------------------------------------
+|
+-----------------------------------
+|
+|
+ Total Active Listings
+|
+ 36,000+
+| 
+|
+ Average Price/Night
+|
+ $125.00
+|
+|
+ Estimated Monthly Cost
+|
+ $1,945.09
+|
+|
+ Most Common Room Type
+|
+ Entire home/apt
+|
+|
+ Most Popular Borough
+|
+ Manhattan
+|
 
-|         Metric             |         Value        |
-|--------------- ------------|-------------- -------|
-|   Total Active Listings    |       36,000+        |
-|    Average Price/Night     |       $167.66        |
-|    Median Price/Night      |       $125.00        |
-|   Estmated Monthly Cost    |       $1945.09       |
-|   Most common room type    |     Entire home/apt  |
-|   Most Popular Borough     |      Manhattan       |
-
-    ---------------------------------------------   
 
 ## Market Insights
 ### 1. Price Comparison
