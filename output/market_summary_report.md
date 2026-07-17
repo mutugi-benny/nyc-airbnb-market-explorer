@@ -10,7 +10,9 @@ Metric
 |
 Value
 |
+
 |-----------|-----------|
+
 |
  Total Active Listings
 |
