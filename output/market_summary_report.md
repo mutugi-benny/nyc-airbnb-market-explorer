@@ -34,17 +34,18 @@ This project analyzes the NYC Airbnb market to provide insights for real estate 
 
 ### 4. Top 10 most expensive Neighbourhoods
 Top 10 Most Expensive Neighborhoods:
-neighbourhood
-Atlantic Beach, New York, United States      595.500000
-NEW YORK, New York, United States            541.866667
-New York, NY, Argentina                      499.000000
-Jamaica Estates, New York, United States     467.333333
-Manhattan, New York, United States           454.500000
-LONG ISLAND CITY, New York, United States    395.000000
-Brooklyn , United States                     394.000000
-Whitestone, New York, United States          364.000000
-Far Rockaway , New York, United States       352.000000
-Jamaica queens, New York, United States      350.000000
+|neighbourhood|Price|
+| :--- | :--- |
+|Atlantic Beach, New York, United States    |595.500000|
+|NEW YORK, New York, United States           |541.866667|
+|New York, NY, Argentina                      |499.000000|
+|Jamaica Estates, New York, United States     |467.333333|
+|Manhattan, New York, United States           |454.500000|
+|LONG ISLAND CITY, New York, United States    |395.000000|
+|Brooklyn , United States                     |394.000000|
+|Whitestone, New York, United States          |364.000000|
+|Far Rockaway , New York, United States      | 352.000000|
+|Jamaica queens, New York, United States      |350.000000|
 ![Top_neighbourhoods.csv data](../output/top_neighborhoods.csv)
 
      --------------------------------------------
